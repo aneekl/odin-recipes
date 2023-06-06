@@ -1,0 +1,16 @@
+* {
+    border: 2px solid red;
+  }
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+.link{
+    color: aqua;
+    padding: 20px;
+}
